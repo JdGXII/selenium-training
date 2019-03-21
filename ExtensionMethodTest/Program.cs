@@ -12,6 +12,7 @@ namespace ExtensionMethodTest
             RegularWay();
             GetElementByLinkText();
             GetAllLinks();
+            FillAndSubmitAForm();
         }
 
         public static void RegularWay()
